@@ -1,0 +1,11 @@
+p {color: black;}
+h2 {color: black;}
+.B {display: flex; 
+    align-items: center;}
+.L {display: flex; 
+        align-items: center;}
+.I {display: flex; 
+            align-items: center;}
+                       
+.flotante {display: scroll; position: fixed;
+                bottom: 0px; right: 0px;}    
