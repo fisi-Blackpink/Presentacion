@@ -1,0 +1,8 @@
+.a{display: flex;}
+ p{font-size: 18px;}
+ h1{text-align: center;}
+h4{color: purple;}
+h3{color: palevioletred;}
+
+.flotante {display: scroll; position: fixed;
+    bottom: 0px; right: 0px;}
