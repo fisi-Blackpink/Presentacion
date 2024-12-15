@@ -1,0 +1,16 @@
+.J{display: flex; 
+align-items: center;}
+
+.R{display: flex; 
+    align-items: center;}
+
+.Ji{display: flex; 
+     align-items: center;} 
+
+h3{ text-align: center;}
+
+.L{display: flex; 
+    align-items: center;}
+
+.flotante {display: scroll; position: fixed;
+        bottom: 0px; right: 0px;}
