@@ -1,0 +1,13 @@
+.p{display: flex; 
+    align-items: center;}
+
+    p{font-size: 20px;}
+
+    h1{color: purple; text-align: center;}
+
+ h2{text-align: center;}   
+
+ li{font-weight: bold;}
+
+ .flotante {display: scroll; position: fixed;
+    bottom: 0px; right: 0px;}    
